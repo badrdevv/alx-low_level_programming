@@ -1,9 +1,11 @@
 #include <stdio.h>
+
 /**
- * I used the puts function, to print exactly
- * that sentence with the double quote at the first treated as normal character
- * not as special one since we used a escape
+ * main - this is the main function
+ *
+ * Return: always 0
  */
+
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
