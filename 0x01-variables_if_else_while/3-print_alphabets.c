@@ -1,4 +1,9 @@
 #include <stdio.h>
+/**
+ * main - my main function
+ *
+ * Return: Always 0
+ */
 
 int main(void)
 {
@@ -8,14 +13,12 @@ int main(void)
 	{
 		putchar(i);
 	}
-
-	for (i = 65; i <= 90; i++) 
+	for (i = 65; i <= 90; i++)
 	{
 		putchar(i);
 	}
-
 	putchar('\n');
 
-	return 0;
+	return (0);
 }
 
