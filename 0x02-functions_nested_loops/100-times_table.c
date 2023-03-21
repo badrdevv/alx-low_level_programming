@@ -23,9 +23,9 @@ void print_times_table(int n)
 			if (j == 0)
 				printf("%d", res);
 			else if (res < 10)
-				printf(", %d", res);
+				printf(",   %d", res);
 			else if (res < 100)
-				printf(", %d", res);
+				printf(",  %d", res);
 			else
 				printf(", %d", res);
 		}
