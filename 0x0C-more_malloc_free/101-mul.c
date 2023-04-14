@@ -96,7 +96,7 @@ int main(int argc, char *argv[])
 	for (b = 0; b < l - 1; b++)
 	{
 		if (res[b])
-			a = 1;
+			h = 1;
 		if (h)
 			_putchar(res[b] + '0');
 	}
