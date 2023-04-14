@@ -15,7 +15,7 @@ char *_memoryset(char *a, char b, unsigned int c)
 {
 	unsigned int d;
 
-	for (d = 0; i < c; d++)
+	for (d = 0; d < c; d++)
 	{
 		a[d] = b;
 	}
