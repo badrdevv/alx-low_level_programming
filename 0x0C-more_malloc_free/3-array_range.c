@@ -5,7 +5,7 @@
  * *array_range - a function that create an
  * array of integers
  * @min: the minimum range of values stored
- * @max: the maximum range of values stored and the 
+ * @max: the maximum range of values stored and the
  * number of elements
  *
  * Return: it returns a pointer to a new array
