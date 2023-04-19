@@ -4,7 +4,7 @@
 /**
  * _stringlength - a function that returns the
  * length of a string
- * @s: the string to evaluate
+ * @str: the string to evaluate
  *
  * Return: the length of the string
  */
@@ -59,7 +59,8 @@ char *_stringcopy(char *p, char *st)
  * @age: the age of the dog
  * @owner: the owner of the dog
  *
- * Return: a pointer to the new dog (Success), NULL if someting else is returned
+ * Return: a pointer to the new dog (Success),
+ * NULL if someting else is returned
  */
 
 dog_t *new_dog(char *name, float age, char *owner)
