@@ -1,0 +1,1 @@
+A README.md file inside the 0x10-variadic_functions project, please reach out to my github account badrdevv if you want to know more about each script and its informations, check the commits of each project, happy coding!
