@@ -3,9 +3,11 @@
 #include <stdlib.h>
 
 /**
- * list-len - a function that return the number of elements in
+ * list_len - a function that return the number of elements in
  * a linked list_t list
  * @h: a pointer to the head of the linked list
+ *
+ * Return: number of elements inside this linked list
  */
 
 size_t list_len(const list_t *h)
