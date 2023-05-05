@@ -1,0 +1,1 @@
+My README.md for the bit manipulation ALX SE Project! Please if you want more informations about each C source code file description, check my github account badrdevv and check the commit, happy coding!
